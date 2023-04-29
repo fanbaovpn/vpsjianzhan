@@ -19,13 +19,13 @@ CPU：1core
 
 流量：机房默认1TB，易秋免费送1TB，合计2TB流量.,完全多了,你建什么网站能一天一天有几百万的流量，可惜没有。
 购买了以后在你的产品主页就可以看见产品信息,,
-但是这完全不够我们要找到产品的用户名和密码在你的邮箱里面都有的,,一般都是ip xxxxxxx,,用户名root,密码*^$%RGGGDshenmd我们拿到这个机器就拥有这个主机管理权限一般来说都可以去建站了,,  
+但是这完全不管我们要找到产品的用户名和密码在你的邮箱里面都有的,,一般都是ip xxxxxxx,,用户名root,密码*^$%RGGGDshenmd我们拿到这个机器就拥有这个主机管理权限一般来说都可以去建站了,,  
 我们直接去到宝塔建站网站是https://www.bt.cn/new/download.html
 
 找到这个Linux面板7.9.9在线安装,
 购买得到的信息务器IP：
 请输入服务器IP地址
-图
+图![Image text](https://github.com/fanbaovpn/vpsjianzhan/blob/main/%E5%88%97%E8%A1%A8.png)
 
 端口：默认不要变
 22
@@ -49,13 +49,18 @@ root
  
  把你做好的网页上传到这个目录
 ..去访问你的网站就可以了
+说明所有功能都在左边列表的
 
+![Image text](https://github.com/fanbaovpn/vpsjianzhan/blob/main/%E5%88%97%E8%A1%A8.png)
 
 但是如果你没有域名的话还得去申请一个域名单击“网站”选项，然后点击右侧的“添加站点”
-这就叫空间绑定域名,
+**这就叫空间绑定域名,**
 域名解析在管理商的控制面板里有,解析选择a记录填入你的ip地址就可以了
 做好了这些，我们再去访问你这个域名，就可以看到你上传的内容。
 管理我自己的主机
 **或者我们要找到控制面板的账号和密码就可以管理机器**
-控制面板加入收藏家建议,https://manager.linode.com/linodes
+  控制面板加入收藏家建议,https://manager.linode.com/linodes
 这里可以管理你的买到的机器所有信息哦比如root密码都可以改
+要懂点英文RUNNING就是开机在运行off就是关机,,
+reboot就是重启
+好了如果你还有什么问题可惜联系热心网友,danimaguge@gmail,com
