@@ -25,7 +25,7 @@ CPU：1core
 找到这个Linux面板7.9.9在线安装,
 购买得到的信息务器IP：
 请输入服务器IP地址
-图![Image text](https://github.com/fanbaovpn/vpsjianzhan/blob/main/%E5%88%97%E8%A1%A8.png)
+图![Image text](https://github.com/fanbaovpn/vpsjianzhan/blob/main/htr20230429135210.png))
 
 端口：默认不要变
 22
